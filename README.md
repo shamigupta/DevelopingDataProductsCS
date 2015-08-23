@@ -1,4 +1,4 @@
-# Coursera Developing Data Products Case Study
+# Developing Data Products Case Study
 ## Analysis of IRIS data - Variability Analysis and Predicting the Species
 
 This Github Repo contains
